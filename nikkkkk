@@ -1,0 +1,1 @@
+print(merged2["rating"].mean))
